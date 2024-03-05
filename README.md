@@ -1,6 +1,4 @@
-# GGMDDC
-
-# Welcome to the GGMDDC wiki!
+# Welcome to the GGMDDC!
 
 ## Preparing for the Interspeech 2024
 
